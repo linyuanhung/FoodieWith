@@ -56,6 +56,7 @@ def filter_by_restrictions(dietary_restriction_list, df0):
     keyword_dict = {'gluten-free' : 'gluten-free|gluten free|celiac|coeliac',
         'pescatarian' :' pescatarian|vegetarian|vegan',
         'vegetarian' : 'vegetarian|vegan',
+        'vegan' : 'vegan',
         'halal' : 'halal',
         'kosher' : 'kosher|hechsher|kashrut',
         'lactose-free' : 'lactose-free|lactose free|dairy-free|dairy free|milk free|milk-free|vegan',
