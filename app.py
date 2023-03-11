@@ -22,7 +22,9 @@ import altair as alt
     #add hours
 #df0 = pd.read_csv("My Python Stuff/TDI-python/capstone/df_br_reduced_restaurant_philly_19107_10min_4stars_2019.csv")
 
-df0 = pd.read_csv("My Python Stuff/TDI-python/capstone/df_philly_restaurants_with_four_stars.csv")
+#df0 = pd.read_csv("My Python Stuff/TDI-python/capstone/df_philly_restaurants_with_four_stars.csv")
+
+df0 = pd.read_csv("df_philly_restaurants_with_four_stars.csv")
 
 pd.set_option('display.max_columns', None)
 pd.set_option('display.max_colwidth', None)   
