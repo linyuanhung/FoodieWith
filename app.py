@@ -84,7 +84,8 @@ def app():
 
             st.subheader("Difficult to find tasty restaurants for everyone")
 
-            image1 = Image.open("My Python Stuff/TDI-python/capstone/230213_diagram0.png")
+            #image1 = Image.open("My Python Stuff/TDI-python/capstone/230213_diagram0.png")
+            image1 = Image.open("230213_diagram0.png")
 
             st.image(image1, caption="40% of Americans have dietary restrictions due to preference, religious, or health conditions (Statistica, 2021).")
             
@@ -94,7 +95,8 @@ def app():
 
             st.subheader("FoodieWith pipeline")   
 
-            image2 = Image.open("My Python Stuff/TDI-python/capstone/230213_diagram3.png")
+            #image2 = Image.open("My Python Stuff/TDI-python/capstone/230213_diagram3.png")
+            image2 = Image.open("230213_diagram3.png")
 
             st.image(image2, caption="FoodieWith recommends only tasty restaurants (at least 4 star average) that accommodate your dietary restriction(s) (at least 4 star average).")
 
@@ -102,19 +104,22 @@ def app():
     
             st.subheader("FoodieWith searches Yelp reviews")   
 
-            image4 = Image.open("My Python Stuff/TDI-python/capstone/230214-diagram.png")
+            #image4 = Image.open("My Python Stuff/TDI-python/capstone/230214-diagram.png")
+            image4 = Image.open("230214-diagram.png")
 
             st.image(image4, caption='For example, FoodWith searches for "gluten-free" and "celiac" to identify reviews from gluten-free diners.')
             
             st.subheader("FoodieWith analyzes reviews and recommends restaurants")  
             
-            image5 = Image.open("My Python Stuff/TDI-python/capstone/230214-diagram1.png")
+            #image5 = Image.open("My Python Stuff/TDI-python/capstone/230214-diagram1.png")
+            image5 = Image.open("230214-diagram1.png")
 
             st.image(image5, caption="For example, FoodieWith counts the total number of reviews from gluten-free diners and averages the star rating of these reviews. Only restaurants with at least a 4 star average rating for your dietary restriction(s) are recommended.")
             
             st.subheader("FoodieWith shares detailed reviews") 
             
-            image6 = Image.open("My Python Stuff/TDI-python/capstone/230214-diagram2.png")
+            #image6 = Image.open("My Python Stuff/TDI-python/capstone/230214-diagram2.png")
+            image6 = Image.open("230214-diagram2.png")
             
             st.image(image6, caption="For example, FoodWith displays the most recent and useful reviews that mention your dietary restriction(s).")
             
@@ -331,7 +336,8 @@ def app():
 
                     st.subheader("Difficult to find tasty restaurants for everyone")
 
-                    image1 = Image.open("My Python Stuff/TDI-python/capstone/230213_diagram0.png")
+                    #image1 = Image.open("My Python Stuff/TDI-python/capstone/230213_diagram0.png")
+                    image1 = Image.open("230213_diagram0.png")
 
                     st.image(image1, caption="40% of Americans have dietary restrictions due to preference, religious, or health conditions (Statistica, 2021).")
 
@@ -340,7 +346,8 @@ def app():
                     st.write("finds best restaurants for your dietary restriction(s)")
                     st.subheader("FoodieWith pipeline")   
 
-                    image2 = Image.open("My Python Stuff/TDI-python/capstone/230213_diagram3.png")
+                    #image2 = Image.open("My Python Stuff/TDI-python/capstone/230213_diagram3.png")
+                    image2 = Image.open("230213_diagram3.png")
 
                     st.image(image2, caption="FoodieWith recommends only tasty restaurants (at least 4 star average) that accommodate your dietary restriction(s) (at least 4 star average).")
 
@@ -350,19 +357,22 @@ def app():
 
                     st.subheader("FoodieWith searches Yelp reviews")   
 
-                    image4 = Image.open("My Python Stuff/TDI-python/capstone/230214-diagram.png")
+                    #image4 = Image.open("My Python Stuff/TDI-python/capstone/230214-diagram.png")
+                    image4 = Image.open("230214-diagram.png")
 
                     st.image(image4, caption='For example, FoodWith searches for "gluten-free" and "celiac" to identify reviews from gluten-free diners.')
 
                     st.subheader("FoodieWith analyzes reviews and recommends restaurants")  
 
-                    image5 = Image.open("My Python Stuff/TDI-python/capstone/230214-diagram1.png")
+                    #image5 = Image.open("My Python Stuff/TDI-python/capstone/230214-diagram1.png")
+                    image5 = Image.open("230214-diagram1.png")
 
                     st.image(image5, caption="For example, FoodieWith counts the total number of reviews from gluten-free diners and averages the star rating of these reviews. Only restaurants with at least a 4 star average rating for your dietary restriction(s) are recommended.")
 
                     st.subheader("FoodieWith shares detailed reviews") 
 
-                    image6 = Image.open("My Python Stuff/TDI-python/capstone/230214-diagram2.png")
+                    #image6 = Image.open("My Python Stuff/TDI-python/capstone/230214-diagram2.png")
+                    image6 = Image.open("230214-diagram2.png")
 
                     st.image(image6, caption="For example, FoodWith displays the most recent and useful reviews that mention your dietary restriction(s).")
 
