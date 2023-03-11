@@ -9,7 +9,7 @@ https://linyuanhung-foodiewith-app-xzjstp.streamlit.app/
 
 ### FoodieWith collects user preferences
 
-FoodieWith uses Yelp’s dataset to recommend tasty restaurants (with at least a 4 star overall rating) in Philadelphia based on user preferences. The user can input their dietary restriction(s), their zip code (currently only for Philadelphia), how many miles they are willing to travel, date and time that they will be dining, and their restaurant ranking preference. 
+FoodieWith uses [Yelp’s dataset](https://www.yelp.com/dataset) to recommend tasty restaurants (with at least a 4 star overall rating) in Philadelphia based on user preferences. The user can input their dietary restriction(s), their zip code (currently only for Philadelphia), how many miles they are willing to travel, date and time that they will be dining, and their restaurant ranking preference. 
 
 <img width="617" alt="Screenshot 2023-03-10 at 6 48 43 PM" src="https://user-images.githubusercontent.com/104601250/224461095-7cc453db-0d0b-4d78-9c59-febd92fad40e.png">
 
@@ -37,7 +37,7 @@ The most recent and useful reviews for each dietary restriction are also display
 
 
 ## Why
-In my family, my sister is vegetarian and I have a gluten allergy. Deciding on a restaurant for dinner is often a long and involved process. We would all have our phones out to cross check menus and Yelp reviews to find a restaurant that is both tasty and can accommodate our dietary restrictions. This problem is also not specific to my family--40% of Americans have a dietary restriction due to preference, religion, or health conditions (Statistica, 2021). 
+In my family, my sister is vegetarian and I have a gluten allergy. Deciding on a restaurant for dinner is often a long and involved process. We would all have our phones out to cross check menus and Yelp reviews to find a restaurant that is both tasty and can accommodate our dietary restrictions. This problem is also not specific to my family--40% of Americans have a dietary restriction due to preference, religion, or health conditions [(Statistica, 2021)](https://www.statista.com/chart/24791/share-of-americans-who-who-follow-nutritional-rules/). 
 
 FoodieWith streamlines the process of finding a tasty restaurant that can accommodate everyone’s dietary preferences by providing one centralized website where the user can enter their party’s dietary preference(s) and get a list of nearby and open restaurants that can accommodate everyone.
 
