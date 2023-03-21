@@ -384,9 +384,11 @@ def app():
                         #st.write('My name is Yuan-Hung Lin King. I have a PhD in Neuroscience from the University of California, San Francisco. I love exploring new restaurants with my friends and family!')
                         st.write('Yuan-Hung Lin King (PhD)')
                         
-                        st.write('email: yuan.hung.lin.king@mg.thedataincubator.com')
+                        #st.write('email: yuan.hung.lin.king@mg.thedataincubator.com')
                         
                         st.write('LinkedIn: www.linkedin.com/in/yuan-hung-lin-king')
+                        
+                        st.write('GitHub: https://github.com/linyuanhung/FoodieWith.git')
 
                         #need to remove
                         #st.write(time.ctime())
